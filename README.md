@@ -1,3 +1,3 @@
 ﻿# Bangkit Academy
 ## Belajar Fundamental Aplikasi Android
-### LatihanViewModel
+### Latihan View Model
